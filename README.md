@@ -4,7 +4,7 @@
 
 🎓I am a Production Engineering student with a focus on software
 
-👩‍💻 Currently, I work as a Data Analyst Intern at FortBrasil
+👩‍💻 Currently, I work as a Data Analyst Intern at DM Card
 
 💻 I study DataVis, ETL and Deep learning to further improve as a data professional
 
